@@ -1,7 +1,7 @@
 # Assignment-7-oussema-kassebi
 
 Link of the original code to be optimized:
-https://github.com/notdanieldiaz/Matrix-Multiplication
+https://github.com/PiotrMydlowski/Matrix-Basic/blob/master/main.cpp
 
 + Optimization task:
 This project demonstrates performance gains in matrix multiplication using modern C++ features. The task highlights the replacement of a  naive implementation with an optimized version using dynamic memory allocation, parallel algorithms and cache-friendly techniques.

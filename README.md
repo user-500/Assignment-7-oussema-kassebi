@@ -3,6 +3,13 @@
 Link of the original code to be optimized:
 https://github.com/PiotrMydlowski/Matrix-Basic/blob/master/main.cpp
 
+Main code task: 
+
+Write a program which performs addition, subtraction, multiplication of matrices.
+The dimensions of both the matrices would be specified by the user (dynamic memory allocation required).
+Use of structure or a class to define the matrix would be a good idea.
+
+
 + Optimization task:
 This project demonstrates performance gains in matrix multiplication using modern C++ features. The task highlights the replacement of a  naive implementation with an optimized version using dynamic memory allocation, parallel algorithms and cache-friendly techniques.
 

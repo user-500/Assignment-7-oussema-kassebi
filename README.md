@@ -4,7 +4,7 @@ Link of the original code to be optimized:
 https://github.com/notdanieldiaz/Matrix-Multiplication
 
 + Optimization task:
-This project demonstrates performance gains in matrix multiplication using modern C++ features. The task highlights the replacement of a  naive implementation with an optimized version using parallel algorithms and cache-friendly techniques.
+This project demonstrates performance gains in matrix multiplication using modern C++ features. The task highlights the replacement of a  naive implementation with an optimized version using dynamic memory allocation, parallel algorithms and cache-friendly techniques.
 
 Remarkable significant improvements include:
 
@@ -22,4 +22,13 @@ Remarkable significant improvements include:
      
  4 - Improved code structure and size:
  
- Reducing code lines to roughly 60% and so in code file size.
+ Reducing code lines to roughly 60% and so in file size.
+
+
+ Compilation command:
+ 
+ g++ -fopenmp -o assignment7 Assignment7.cpp
+ 
+ Execution command:
+ 
+ ./assignment7

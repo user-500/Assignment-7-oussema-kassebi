@@ -7,6 +7,7 @@ https://github.com/notdanieldiaz/Matrix-Multiplication
 This project demonstrates performance gains in matrix multiplication using modern C++ features. The task highlights the replacement of a  naive implementation with an optimized version using parallel algorithms and cache-friendly techniques.
 
 Remarkable significant improvements include:
+
  1 - Dynamic Memory Allocation:
  
  Using std::vector for dynamic memory allocation simplifies memory management and ensures exception safety.

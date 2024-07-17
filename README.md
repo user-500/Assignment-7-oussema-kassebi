@@ -33,14 +33,11 @@ Remarkable significant improvements include:
 
 
 Additional Remarks:
-
 The original code used raw pointers and manual memory management, which is error-prone and inefficient.
 
 
 Compilation command:
- 
 g++ -fopenmp -o assignment7 Assignment7.cpp
  
 Execution command:
- 
 ./assignment7

@@ -11,9 +11,9 @@ Remarkable significant improvements include:
  
  Using std::vector for dynamic memory allocation simplifies memory management and ensures exception safety.
  
- 2 - Parallel Processing: #pragma omp parallel for collapse(2) which enables parallel processing of:
-
- nested loops, significantly reducing computation time by leveraging multiple CPU cores.
+ 2 - Parallel Processing:
+ 
+#pragma omp parallel for collapse(2) which enables parallel processing of nested loops, significantly reducing computation time by leveraging multiple CPU cores.
  
  3 - Efficient Loop Structures:
  
